@@ -1,8 +1,10 @@
 <?php
 return [
-    'db_host' => 'localhost',
-    'db_name' => 'mu_online',
-    'db_user' => 'your_username',
-    'db_pass' => 'your_password',
-    'base_url' => 'http://yourdomain.com/cms/'
+    'db_host' => 'DESKTOP-4RMR4VQ',
+    'db_name' => 'MuOnline',
+    'db_user' => 'sa',
+    'db_pass' => 'xysad234',
+    'base_url' => 'MUCore',
+    'db_encrypt' => false,  
+    'db_trusted_cert' => false 
 ];
